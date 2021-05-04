@@ -3921,6 +3921,7 @@ Jairo Martinez
 - [Vincent Martin](https://github.com/vincent2303)
 - Sela01
 - [Tyler Bacon](https://github.com/tbacon781)
+- [Tyler Kerswell](https://github.com/TylerKerswell)
 - [Sattwik Palai](https://github.com/sattwik21)
 - [Konstantinos Lamogiannis](https://github.com/kostaslamo)
 - [Hauve]
@@ -10809,14 +10810,14 @@ sam_namiranian
 - [Jarom Later](https://github.com/thundrjary)
 - jwysowski
 https://github.com/franzk
-[Gerald Elorm Gbagbe](https://github.com/geraldelorm)
+- [Gerald Elorm Gbagbe](https://github.com/geraldelorm)
 - [Jake Z](https://github.com/EsuFeDia)
 - Harshit
-Marica Marian
+- Marica Marian
 - [Abhishek-Rath] (https://github.com/Abhishek-Rath)
 - [Bhavya B](https://github.com/Bhavya-Budhia)
 - [Emil M](https://github.com/znibblol)
--[iddimsangi](https://github.com/iddimsangi)
+- [iddimsangi](https://github.com/iddimsangi)
 - Hassan Abdulrahman
 - [Amith Shubhan](https://github.com/amithshubhan)
 - [Emmanuel Lucio Urbina](https://github.com/emmanuelurbina)
@@ -10880,7 +10881,7 @@ Marica Marian
 - [iWonder118](https://github.com/iWonder118)🐧
 - [Hai Pham](https://github.com/haipnh)
 - [Irakli Khizanishvili](https://github.com/iraklik)
-  [Kashish](https://github.com/K-ash-ish)
+- [Kashish](https://github.com/K-ash-ish)
 - [Oğuzhan Akbulut](https://github.com/akbulutoguzhan)
 - [enryolto](https://github.com/enryolto)
 - [Emre Çoban](https://github.com/emrecoban)
@@ -11060,8 +11061,8 @@ Marica Marian
 - [veagir](https://github.com/veagir)
 - [iamtbc](https://github.com/iamtbc)
 - [ran](https://github.com/skyan1278)
-[Jack Mulligan] (https://github.com/jackmulligan-ire)
-[Yusuf Adel](https://yusufadell.github.io)
+- [Jack Mulligan] (https://github.com/jackmulligan-ire)
+- [Yusuf Adel](https://yusufadell.github.io)
 - [Jose Pardo](https://github.com/sevijey)
 - [KimKim1023](https://github.com/KimKim1023)
 - [BenticSebastian](https://github.com/bsebast2)
