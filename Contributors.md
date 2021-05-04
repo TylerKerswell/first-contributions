@@ -500,6 +500,7 @@ Berliana
 - [Sergiy Ladnych](https://github.com/sergiyladnych)
 - [Arthur Remy](https://github.com/remy29)
 - [Gavin Callander](https://github.com/GavinCallander)
+- [Tyler Kerswell](https://github.com/TylerKerswell)
 - [Destiny Aigbe](https://github.com/Destiny-01)
 - [Amusa Rasak](https://github.com/Abdulrozzaq)
 - [Kevin Mell](https://https://github.com/kmell1)
